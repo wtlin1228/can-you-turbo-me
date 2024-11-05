@@ -1,0 +1,13 @@
+{
+  "name": "hawk",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "build": "tsc"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "@cytm/typescript-config": "workspace:*",
+    "typescript": "5.6.3"
+  }
+}
